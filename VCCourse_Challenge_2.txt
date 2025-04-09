@@ -1,0 +1,1 @@
+Second assignment in github course using git bash
